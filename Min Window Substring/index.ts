@@ -1,5 +1,5 @@
 /**
- * CoderByte Challenge - Find Intersection
+ * CoderByte Challenge - Min Window Substring
  */
 
 //	 https://coderbyte.com/editor/Min%20Window%20Substring:JavaScript
